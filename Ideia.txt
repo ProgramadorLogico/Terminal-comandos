@@ -1,0 +1,1 @@
+A ideia é de um sistema de terminal, apenas isso, você digita um comando e ele fala que fez algo
